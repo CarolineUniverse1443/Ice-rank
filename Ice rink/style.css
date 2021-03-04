@@ -37,14 +37,12 @@ nav {
 	font-size: 1.2em;
 	margin-right: 0px;
 	padding: 5px;
-	background-color: green;
 }
 
 nav a {
 	display: inline-block;
 	margin-top: 20px;
 	padding: 10px;
-	color: black;
 	text-decoration: none;
 	border-radius: 5px;
 	font-weight: lighter;
@@ -52,12 +50,10 @@ nav a {
 
 #menu {
 	width: auto;
-	background-color: blue;
 }
 
 .extra {
 	margin: auto;
-	background-color: pink;
 	width: auto;
 	height: 50px;
 }
@@ -87,8 +83,7 @@ nav a:hover {
 	margin-left: 50px;
 	margin-top: 15px;
 	width: 20%;
-/*	height: 70%;
-*/}
+}
 
 #rink {
 	width: 100%;
